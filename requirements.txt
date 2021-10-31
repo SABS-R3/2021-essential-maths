@@ -1,0 +1,9 @@
+jupyter
+jupyter_contrib_nbextensions
+matplotlib
+numpy
+RISE
+scipy
+sympy
+traitlets
+nb-clean
